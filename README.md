@@ -31,23 +31,6 @@ bundle install
 - Add social Networks plugins
 - Improve Homepage
 
-## Screenshots
-- Main Page
-![alt text](http://i.imgur.com/adPQV5g.png "Main Page")
 
-- Sign Up Form:
-![alt text](http://i.imgur.com/KjK9MTp.png "Main Page")
 
-- Footer 
-![alt text](http://i.imgur.com/xG5KOM8.png "Main Page")
-
-- Admin Panel
-![alt text](http://i.imgur.com/lpAD4JB.png "Main Page")
-
-- Post Example
-![alt text](http://i.imgur.com/ISC4hu5.png "Main Page")
-
-- Comment Form
-![alt text](http://i.imgur.com/PlhHx93.png "Main Page")
-
-#### This Project is Made with Love
+#### This Project is Made with Love and it's under construction
